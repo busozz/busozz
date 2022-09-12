@@ -1,11 +1,7 @@
 ### Hey,
 <img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+there+%3A);I'm+Özcan.;I'm+a+React+Developer;I+love+programming+React+Nodejs+JavaScript+projects.">
-  </a>
- 
-  <br> <br>
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=busozz&show_icons=true&locale=en&layout=compact" alt="busozz" /></p>
 
+<img align="right" width="300px" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471kiltwhnfr9210tni2l6ndlw919nwcp933go6f9i&rid=giphy.gif&ct=g"/>
 
 <p> 💻   I am a self-taught developer with a background. I have with a passion for creating beautiful and functional websites.
  <br/> <br/>
